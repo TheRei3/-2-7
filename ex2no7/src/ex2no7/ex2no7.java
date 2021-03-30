@@ -8,7 +8,7 @@ public class ex2no7 { //56p
 		
 		System.out.printf("%c = %d(%#X)%n",ch,code,code);
 		 
-		char hch = '°¡';      
+		 char hch = 'ê°€'; 
 		System.out.printf("%c = %d(%#X)%n", hch, (int)hch, (int)hch);
 	} 
 	
